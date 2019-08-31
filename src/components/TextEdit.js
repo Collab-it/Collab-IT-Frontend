@@ -24,6 +24,7 @@ class TextEdit extends Component {
         {/* <h3>
           TextEdit component - renders Yjs and textarea
         </h3>
+
         <p>
           (if Yjs renders TextArea, it creates an infinite loop)
         </p> */}
